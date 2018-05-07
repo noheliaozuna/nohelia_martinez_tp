@@ -1,0 +1,38 @@
+
+.row{
+	padding: 5%;
+	margin: 0;
+	background-image: url("fondo.jpeg");
+	
+}
+.col-md-4{
+	
+}
+.col-md-8{
+	padding: %;
+	margin-top: 3.3%;
+	background: white;
+	box-shadow: 0px 0px 8px 0px white;
+	
+}
+.panel-heading{
+	padding: 40px;
+}
+.thumbnail{
+	padding: 20%;
+	width: 350px;
+	background-color: #eeeeee;
+	box-shadow: 0px 0px 8px 0px white;
+	
+}
+.icons{
+	height: 40px;
+	width: 40px;
+}
+.iconos{
+	text-align: center;
+}
+.panel-title{
+	font-size: 15px;
+	font-family: 'Permanent Marker', cursive;
+}
